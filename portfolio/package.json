@@ -21,6 +21,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "homepage": "https://nigeldwatkins.github.io/PortfolioReact/",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
