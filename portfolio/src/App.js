@@ -4,10 +4,11 @@ import "./index.css";
 import Welcome from "./portfolio/welcome";
 import Home from "./portfolio/home";
 
+const basename = '/PortfolioReact';
 function App() {
   return (
     <div>
-      <Router>
+      <Router basename={basename}>
         <Routes>
           <Route path="/" element={<Welcome />} />
           <Route path="/home" element={<Home />} />
