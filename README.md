@@ -40,7 +40,8 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 # Author
 
-Nigel Watkins: https://github.com/nigeldwatkins
+Nigel Watkins: [GitHub](https://github.com/nigeldwatkins) | [Deployed Site](https://nigeldwatkins.github.io/PortfolioReact/)
+
 
 # License
 
